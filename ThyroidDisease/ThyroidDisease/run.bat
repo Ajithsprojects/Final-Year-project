@@ -1,2 +1,0 @@
-python ThyroidDiseaseDetection.py
-pause
