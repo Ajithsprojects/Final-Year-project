@@ -1,5 +1,4 @@
-# Final-Year-project
-#THYROID DESEASES DETECTION 
+# Final-Year-project(THYROID DESEASES DETECTION) 
 Abstract: In India, 42 million people suffer from diseases such as thyroid. Humans have a vascular gland called the thyroid that is
 one of the most important organs in their bodies. Two hormones are secreted by this gland, which function to control the body's
 metabolism. When this disorder occurs in the body, certain hormones are released that imbalances the body's metabolism. Using
